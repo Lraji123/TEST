@@ -1,5 +1,0 @@
-{#user}
-Name: Rajeswary L
-Skills: HTML, CSS, JS
-Email: test@gmail.com
-{{/user}}
